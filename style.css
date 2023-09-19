@@ -29,6 +29,16 @@ body {
   animation: content-shift 15s infinite;
 }
 
+/* @media screen and (min-width: 600px) {
+  .content {
+   
+    height: 100% !important;
+    width: 100% !important;
+   
+  }
+  
+} */
+
 @keyframes content-shift {
   0% {
     opacity: 1;
@@ -91,12 +101,8 @@ body {
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 
-  overflow: scroll;
 }
 
-*::-webkit-scrollbar{
-  display: none;
-}
 
 .text {
   font-family: 'Courier New', Courier, monospace;
@@ -145,9 +151,9 @@ body {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
   .text{
-    font-size: 15px !important;
+    font-size: 20px !important;
   }
 }
 
