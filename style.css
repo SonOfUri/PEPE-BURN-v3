@@ -153,13 +153,13 @@ body {
 
 @media screen and (min-width: 600px) {
   .text{
-    font-size: 23px !important;
+    font-size: 25px !important;
   }
 }
 
 @media screen and (min-width: 400px) {
   .text{
-    font-size: 18px !important;
+    font-size: 20px !important;
   }
 }
 
