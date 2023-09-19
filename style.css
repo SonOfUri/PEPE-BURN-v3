@@ -141,7 +141,7 @@ body {
 
 @media screen and (max-width: 600px) {
   .text{
-    font-size: 20px;
+    font-size: 15px !important;
   }
 }
 
