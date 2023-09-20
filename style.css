@@ -188,6 +188,11 @@ body *{
         font-size: 20%;
     }
 
+    .circular-image {
+        width: 30rem; /* Adjust the width and height as needed */
+        height: 30rem;
+    }
+
     .left h1{
         font-size: 16rem;
     }
