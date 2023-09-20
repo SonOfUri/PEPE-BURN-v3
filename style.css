@@ -2,13 +2,11 @@ html{
     font-size: 42.5%;
 }
 
-/* @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap'); */
-
-@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 *{
 
-    font-family: 'Kanit', sans-serif;
+    font-family: 'VT323', monospace;
 }
 /* Background data (Original source: https://subtlepatterns.com/grid-me/) */
 /* Animations */
