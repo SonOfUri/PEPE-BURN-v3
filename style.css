@@ -2,10 +2,13 @@ html{
     font-size: 42.5%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Kanit&display=swap');
 
 *{
-    font-family: 'Fasthand', cursive;
+
+    font-family: 'Kanit', sans-serif;
 }
 /* Background data (Original source: https://subtlepatterns.com/grid-me/) */
 /* Animations */
