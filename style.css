@@ -1,5 +1,5 @@
 html{
-    font-size: 62.5%;
+    font-size: 42.5%;
 }
 
 
@@ -156,7 +156,7 @@ body *{
 
 @media screen and (max-width: 900px){
     html{
-        font-size: 40%;
+        font-size: 30%;
     }
 
     .left h1{
@@ -185,7 +185,7 @@ body *{
 
 @media screen and (max-width: 600px){
     html{
-        font-size: 30%;
+        font-size: 20%;
     }
 
     .left h1{
