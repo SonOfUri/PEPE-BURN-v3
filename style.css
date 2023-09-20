@@ -51,7 +51,7 @@ html{
 /* Main styles */
 body {
     /* margin-top: 1.35rem; */
-    margin-top: 13.5rem; /* Use the original value if needed */
+ /* Use the original value if needed */
     color: green;
     font:
         400 1.6rem/1.5 exo, /* Changed font size to rem */
@@ -181,6 +181,10 @@ body *{
     .burn{
         font-size: 5rem;
     }
+
+    .right h3{
+        margin-top: 10rem ; 
+    }
 }
 
 @media screen and (max-width: 600px){
@@ -195,6 +199,10 @@ body *{
 
     .left h1{
         font-size: 16rem;
+    }
+
+    .right h3{
+        margin-top: 3rem ; /* Changed margin-top to rem */
     }
 }
 
