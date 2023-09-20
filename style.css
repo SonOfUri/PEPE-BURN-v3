@@ -2,10 +2,11 @@ html{
     font-size: 42.5%;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
 
-
-/* styles.css */
-@import url(https://fonts.googleapis.com/css?family=Exo:100);
+*{
+    font-family: 'Fasthand', cursive;
+}
 /* Background data (Original source: https://subtlepatterns.com/grid-me/) */
 /* Animations */
 @-webkit-keyframes bg-scrolling-reverse {
